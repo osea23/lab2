@@ -23,6 +23,7 @@ body {
 .jumbotron {
 	position: relative;
 	background: none;
+	color: white;
 }
 
 .jumbotron:after {
